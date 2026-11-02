@@ -1,18 +1,18 @@
 # 안녕하세요👋
 
 ## Introduction
--풀스택 개발자를 목표로 공부하는 이상준입니다
-## Course
--대구 서부고등학교 졸업
 
--영남대학교 컴퓨터공학과 재학중
+## Course
+- 대구 서부고등학교 졸업
+
+- 영남대학교 컴퓨터공학과 재학중
 
 ## Interest
--JavaScript
+- JavaScript
 
--C++
+- C++
 
--React
+- Network Engineering
 <!--
 **sangjun7645/sangjun7645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
