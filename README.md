@@ -3,16 +3,14 @@
 ## Introduction
 
 ## Course
-- 대구 서부고등학교 졸업
+-대구 서부고등학교 졸업
 
-- 영남대학교 컴퓨터공학과 재학중
+-영남대학교 컴퓨터공학과 재학중
 
 ## Interest
-- JavaScript
+-JavaScript
 
-- C++
-
-- Network Engineering
+-Network Engineering
 <!--
 **sangjun7645/sangjun7645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
