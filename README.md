@@ -8,7 +8,7 @@
 -영남대학교 컴퓨터공학과 재학중
 
 ## Interest
--JavaScript
+-Algorithm
 
 -Network Engineering
 <!--
