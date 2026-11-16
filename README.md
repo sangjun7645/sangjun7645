@@ -7,10 +7,6 @@
 
 -영남대학교 컴퓨터공학과 재학중
 
-## Interest
--Algorithm
-
--Network Engineering
 <!--
 **sangjun7645/sangjun7645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
